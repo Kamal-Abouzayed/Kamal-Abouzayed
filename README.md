@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 =====================================================
 
 
-<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/devcard.svg" width="100%" alt="Kamal Abouzayed's Dev Card"/></a>
+<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/devcard.svg" width="500" alt="Kamal Abouzayed's Dev Card"/></a>
 
 
 =====================================================
