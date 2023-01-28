@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kamal-Abouzayed/Kamal-Abouzayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-<a href="https://app.daily.dev/ARROWDev"><img src="https://api.daily.dev/devcards/e21d109fafee46eea9a6ba354653fed2.png?r=7jv" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
+<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/master/devcard.svg" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
