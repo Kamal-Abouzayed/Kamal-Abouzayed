@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 =====================================================
 
 
-[![Kamal Abouzayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal-Abouzayed)](https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/README.md)
+[![Kamal Abouzayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal-Abouzayed&show_icons=true&theme=dracula)](https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/README.md)
