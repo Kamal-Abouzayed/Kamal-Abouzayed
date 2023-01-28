@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/master/devcard.svg" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/master/devcard.svg" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
