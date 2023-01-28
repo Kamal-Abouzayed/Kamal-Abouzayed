@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<a href="https://app.daily.dev/ARROWDev"><img src="https://api.daily.dev/devcards/e21d109fafee46eea9a6ba354653fed2.png?r=7jv" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
