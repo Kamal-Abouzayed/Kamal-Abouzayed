@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/Kamal-Abouzayed"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/header.png" width="400" alt="Kamal Abouzayed"/></a>
+<a href="https://github.com/Kamal-Abouzayed"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/header.png" width="100%" alt="Kamal Abouzayed"/></a>
 
 
 <!-- - 🔭 I’m currently working on ... -->
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 =====================================================
 
 
-<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/devcard.svg" width="400" alt="Kamal Abouzayed's Dev Card"/></a>
+<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/devcard.svg" width="100%" alt="Kamal Abouzayed's Dev Card"/></a>
 
 
 =====================================================
