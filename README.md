@@ -3,7 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Kamal Abouzayed, a full-time back-end developer 👨‍💻</div>  
+### <div align="center">I'm Kamal Abouzayed, a full-time back-end developer 👨‍💻</div> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Kamal-Abouzayed&&style=flat-square" align="center" />
+</div>  
   
 
 - 🌱 I’m currently learning advanced topics in PHP  
@@ -46,12 +49,6 @@
 </td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Kamal-Abouzayed" target="_blank">
@@ -72,13 +69,6 @@
 ## Github Stats  
 [![Kamal Abouzayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal-Abouzayed&show_icons=true&theme=dracula)](https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/README.md)
 <br/>  
-
-  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kamal-Abouzayed&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
