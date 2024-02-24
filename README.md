@@ -78,4 +78,4 @@
 
 ----
 
-<a href="https://app.daily.dev/ARROWDev"><img src="https://github.com/Kamal-Abouzayed/Kamal-Abouzayed/blob/main/devcard.svg" width="500" alt="Kamal Abouzayed's Dev Card"/></a>
+<a href="https://app.daily.dev/arrowdev"><img src="https://api.daily.dev/devcards/v2/o0tactDHU.png?type=default&r=llq" width="356" alt="Kamal Abouzayed's Dev Card"/></a>
