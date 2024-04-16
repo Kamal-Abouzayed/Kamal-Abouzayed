@@ -33,7 +33,8 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
+<a href="https://alpinejs.dev/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Alpine.js.svg" alt="AlpineJs" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
@@ -45,7 +46,7 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://livewire.laravel.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="Livewire" height="50" /></a>  
+<a href="https://livewire.laravel.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="Livewire" height="50" /></a>
 </div>
 
 </td></table>
@@ -62,6 +63,9 @@
 <a href="https://linkedin.com/in/kamal-abouzayed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://linkedin.com/in/kamal-abouzayed" target="_blank">
+<img src=https://img.shields.io/website?url=https://kamal-abouzayed.vercel.app&label=Portofolio&up_message=Kamal-Abouzayed alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
