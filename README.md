@@ -63,8 +63,9 @@
 <a href="https://linkedin.com/in/kamal-abouzayed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://linkedin.com/in/kamal-abouzayed" target="_blank">
-<img src=https://img.shields.io/website?url=https://kamal-abouzayed.vercel.app&label=Portofolio&up_message=Kamal-Abouzayed alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://kamal-abouzayed.vercel.app" target="_blank">
+<img src=https://img.shields.io/website?url=https%3A%2F%2Fkamal-abouzayed.vercel.app%2F&up_message=Kamal-Abouzayed&style=for-the-badge&label=Portfolio
+ alt=portfolio style="margin-bottom: 5px;" />
 </a>
 </div>  
   
